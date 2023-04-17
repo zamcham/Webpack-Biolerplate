@@ -27,7 +27,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## 📄 License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this template as per the terms of the license. See LICENSE for more details.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this template as per the terms of the license. See [LICENSE](./LICENSE) for more details.
 
 ## 🙌 Credits
 
