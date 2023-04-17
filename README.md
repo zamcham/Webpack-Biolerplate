@@ -16,7 +16,7 @@ This is a boilerplate template for web development projects using Webpack, a pop
 To get started with this Webpack boilerplate template, follow these steps:
 
 - [ ] Clone the repository or use it as a GitHub template for your own project.
-- [ ] Install the dependencies by running npm install in the project directory.
+- [ ] Install the dependencies by running `npm install` in the project directory.
 - [ ] Use the provided scripts in the package.json file to run the development server (npm run start) or build the project for production (npm run build).
 - [ ] Customize the configuration files and project structure as needed for your specific requirements.
 - [ ] Start building your web application using the power of Webpack and the included features in this boilerplate template.
