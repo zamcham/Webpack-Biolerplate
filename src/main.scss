@@ -1,5 +1,16 @@
-$orange-color: #7760e8;
+$background-color: #86D3E2;
+$purple-color: #7f389f;
 
 body {
-    background-color: $orange-color;
+    color: $purple-color;
+    background-color: $background-color;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    img {
+        width: 20%;
+        height: auto;
+    }
 }
